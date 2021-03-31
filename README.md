@@ -52,12 +52,3 @@ I think you should use an
 - [ ] this is an incomplete item
 
 
-# Syntax highlighting
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
